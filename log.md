@@ -9,3 +9,11 @@
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
 
+### Day 1: November 03, 2021
+
+**Today's Progress**: Today I work with the data types in python. Write down four exercersises and mess around with converting types and calculations. 
+
+**Thoughts:** Today I started the one hour very tired, but was really funny do this exercersises. 
+
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
