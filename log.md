@@ -17,3 +17,13 @@
 
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+### Day 2: November 03, 2021
+
+**Today's Progress**: Today I only did some exercises on my day 2. I'm tired today because I had insomnia and so I'm thinking not so well
+
+**Thoughts:** I will stop for today, I make one hour exactly of my training, and tomorrow I will recover the planning and do more.
+
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
+
