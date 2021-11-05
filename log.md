@@ -27,3 +27,10 @@
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
 
+### Day 3: November 05, 2021
+
+**Today's Progress**: FFor today I just review some of the exercersises that I do in the previous days, but in order to improve more my knowledge about devops, My current area of expertise,  I prepare an environment to start the process to code, build and Run, and read some pages of the book, cloud native devops with kubernetes. 
+
+**Thoughts:**  I thinking and increase the chalange of my 100 days of code, and adding more things in the devops roadmap 
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
