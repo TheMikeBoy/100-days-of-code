@@ -34,3 +34,11 @@
 **Thoughts:**  I thinking and increase the chalange of my 100 days of code, and adding more things in the devops roadmap 
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+
+### Day 4: November 06, 2021
+
+**Today's Progress**:   My progress today was: random, list, nested list and I maked a scissor, paper and rock game. Was Really simple, but it was nice to remember how logics works and how can be different between persons.
+**Thoughts:**  I really have to focus more on exercise because my phone steals a lot of time away from me. 
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
