@@ -49,3 +49,12 @@
 **Thoughts:** I was kind of sick today, because of that I didn't spend many hours studying
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+
+
+### Day 6: November 08, 2021
+
+**Today's Progress**: Today I study pythons loops and how to use them.  
+**Thoughts:**  my new study habit is working, but it's a little slow, I'm watching classes and these videos take a long time to cover some basic things, but it's good to follow these little steps, maybe doing it fast isn't the best way.
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
