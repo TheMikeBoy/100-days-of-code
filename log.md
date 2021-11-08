@@ -42,3 +42,10 @@
 **Thoughts:**  I really have to focus more on exercise because my phone steals a lot of time away from me. 
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+### Day 5: November 07, 2021
+
+**Today's Progress**: For today I review the last exercises and read some of the book cloud native devops. 
+**Thoughts:** I was kind of sick today, because of that I didn't spend many hours studying
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
