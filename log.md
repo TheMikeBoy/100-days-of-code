@@ -58,3 +58,11 @@
 **Thoughts:**  my new study habit is working, but it's a little slow, I'm watching classes and these videos take a long time to cover some basic things, but it's good to follow these little steps, maybe doing it fast isn't the best way.
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+
+### Day 7: November 10, 2021
+
+**Today's Progress**: Yes, I skipped a day because I had a headache, sorry for lose the streak. But today I learned about while loops and completed some challenges. 
+**Thoughts:**   I was reading about indentation in python and noticed a discussion about using spaces and tabs for indentation, and to my surprise  the official documentation recommends using four spaces. This is funny because it is nothing at all productive.
+**Link to work:** you can see my progress here, in my github, on python's directory
+    https://github.com/TheMikeBoy/100-days-of-code
