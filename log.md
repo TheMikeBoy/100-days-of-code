@@ -66,3 +66,9 @@
 **Thoughts:**   I was reading about indentation in python and noticed a discussion about using spaces and tabs for indentation, and to my surprise  the official documentation recommends using four spaces. This is funny because it is nothing at all productive.
 **Link to work:** you can see my progress here, in my github, on python's directory
     https://github.com/TheMikeBoy/100-days-of-code
+
+    
+### Day 7 to day 13 : November 10- November 16,  2021 
+**week's Progress**: I changed the frequency in my logs, because it was getting boring and I had  to study more things in python. Today I use python to do a Log analysis. In the akamai datastream files, I started  writing functions to extract gzip files, save them in the same directory, read and change  the timestamp column  to datetime using pandas library. 
+ **Thoughts:**  I'm getting better every day and understanding more how I can use python in my day at work. 
+**Link to work for today:** https://github.com/TheMikeBoy/AkamaiDataStreamAnilyze/
