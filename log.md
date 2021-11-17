@@ -72,3 +72,8 @@
 **week's Progress**: I changed the frequency in my logs, because it was getting boring and I had  to study more things in python. Today I use python to do a Log analysis. In the akamai datastream files, I started  writing functions to extract gzip files, save them in the same directory, read and change  the timestamp column  to datetime using pandas library. 
  **Thoughts:**  I'm getting better every day and understanding more how I can use python in my day at work. 
 **Link to work for today:** https://github.com/TheMikeBoy/AkamaiDataStreamAnilyze/
+
+
+### Day 14, November 17,  2021 
+**week's Progress**: Today I implemented a sum function with Pandas Dataframe  to sum the values in a column if the column has the user input value. The function runs in  directories and subdirectories searching for the files who has the value
+**Link to work for today:** https://github.com/TheMikeBoy/AkamaiDataStreamAnilyze/
